@@ -1,2 +1,2 @@
 # html-repository
-My first website
+My first website (html)
